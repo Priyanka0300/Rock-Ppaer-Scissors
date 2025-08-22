@@ -23,4 +23,4 @@ The game allows you to play against the computer with a clean and interactive us
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Priyanka0300/Rock-Ppaer-Scissors.git
+   git clone https://github.com/Priyanka0300/Rock-Paper-Scissors.git
